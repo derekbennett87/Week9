@@ -1,0 +1,15 @@
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.AssemblyInfo.cs
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\Week 9.exe
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\Week 9.deps.json
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\Week 9.runtimeconfig.json
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\Week 9.dll
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\ref\Week 9.dll
+C:\Users\derek\source\repos\Week 9\bin\Debug\net6.0\Week 9.pdb
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.dll
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\ref\Week 9.dll
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.pdb
+C:\Users\derek\source\repos\Week 9\obj\Debug\net6.0\Week 9.genruntimeconfig.cache
